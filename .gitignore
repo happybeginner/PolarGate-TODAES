@@ -1,0 +1,9 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Checkpoints / data (keep out of release)
+*.pth
+*.pt
+*.ckpt
